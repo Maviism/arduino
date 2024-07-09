@@ -23,7 +23,7 @@ The Arduino scoreboard system is designed to keep track of the scores for two te
 
 ## Wiring Diagram
 
-![Scoreboard System](./score_board.png)
+![Scoreboard System](/score-board/score_board.png)
 
 ## Instructions
 
